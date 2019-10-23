@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Sigma Tau Delta"
+  organization = "International English Honors Society"
   organization_url = "http://www.english.org/"
-  title = "International English Honors Society"
+  title = "Sigma Tau Delta member"
   url = ""
   certificate_url = ""
   date_start = "2014-01-01"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "National Society of Leadership and Success"
   organization_url = "https://www.nsls.org/"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "NSLS Member"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
@@ -51,11 +51,11 @@ date_format = "Jan 2006"
   [[item]]
     organization = "San Fernando High School Magnet Program Instructor"
     organization_url = ""
-    title = ""
+    title = "Teacher in volunteer capacity"
     url = ""
     certificate_url = ""
     date_start = "2012-01-01"
     date_end = "2013-01-01"
     description = "pro bono teaching position"
-    
+
 +++
