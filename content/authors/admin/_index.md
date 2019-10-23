@@ -33,7 +33,7 @@ education:
   - course: MA English Literature
     institution: St. Mary's University, TX
     year: 2018
-  - course: BA in English-Extended Literature, 2014
+  - course: BA in English-Extended Literature
     institution: California State University Northridge, CA
     year: 2014
 
@@ -70,5 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
-L
+Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her current research interests include literature, critical theory, videogame gamification and narrative, digital media methods, and both cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
