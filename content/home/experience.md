@@ -18,27 +18,65 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Adjunct Professor"
+  company = "EFSC"
+  company_url = "easternflorida.edu"
+  location = "FL"
+  date_start = "2018-07-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Professor of Record
+  * Creating and Deploying Syllabi, Instruction, and Lecture
+  * Grading and Holistic Analysis
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  [[experience]]
+    title = "English Teacher"
+    company = "Pearsall Junior High School"
+    company_url = ""
+    location = "TX"
+    date_start = "2015-07-01"
+    date_end = "2018-07-01"
+    description = """
+    Responsibilities include:
+
+    * Teacher of Record
+    * One Act Play Director
+    * ESL Instructor
+    * GT Instructor
+    * Lesson Plan, Assessment, and Instruction
+    * TOFEL Essay Editor
+    """
+    [[experience]]
+      title = "English Teacher"
+      company = "Charlotte High School"
+      company_url = ""
+      location = "TX"
+      date_start = "2013-07-01"
+      date_end = "2015-07-01"
+      description = """
+      Responsibilities include:
+
+      * Teacher of Record
+      * One Act Play Director
+      * Coordinated Curriculum
+      * Deployed Teaching Techniques
+      """
+      [[experience]]
+        title = "Pan African Studies Writing Lab Tutor and Librarian"
+        company = "CSUN"
+        company_url = ""
+        location = "California"
+        date_start = "2010-01-01"
+        date_end = "2013-01-01"
+        description = """
+        Responsibilities include:
+
+        * Tutored students in writing proficiency
+        * Organized and Worked as Main Librarian for Pan African Studies Library
+        * Supervised employees of Lab
+        """
 
 +++
