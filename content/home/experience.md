@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Grading and Holistic Analysis
   """
 
-  [[experience]]
+[[experience]]
     title = "English Teacher"
     company = "Pearsall Junior High School"
     company_url = ""
@@ -42,14 +42,15 @@ date_format = "Jan 2006"
     description = """
     Responsibilities include:
 
-    * Teacher of Record
+    * Teacher of Record HQNCLB
     * One Act Play Director
-    * ESL Instructor
-    * GT Instructor
-    * Lesson Plan, Assessment, and Instruction
+    * ESL and GT Instructor
+    * Brought 42% Failing School into 82% Academic Assessment Rate
+    * Lesson Plan, Assessment, and Instruction for Title I School
     * TOFEL Essay Editor
     """
-    [[experience]]
+
+[[experience]]
       title = "English Teacher"
       company = "Charlotte High School"
       company_url = ""
@@ -59,12 +60,29 @@ date_format = "Jan 2006"
       description = """
       Responsibilities include:
 
-      * Teacher of Record
+      * Teacher of Record HQNCLB
       * One Act Play Director
-      * Coordinated Curriculum
+      * Coordinated Curriculum for Title I School
       * Deployed Teaching Techniques
       """
-      [[experience]]
+
+[[experience]]
+              title = "English Teacher"
+              company = "RMA"
+              company_url = ""
+              location = "TX"
+              date_start = "2011-01-01"
+              date_end = "2013-01-01"
+              description = """
+              Responsibilities include:
+
+              * Teacher of Record
+              * Creation of Lessons and Implementation
+              * Instructor for At-Risk Youth
+              * Brought failing school to 92% Academic Assessment success rate
+              """
+
+[[experience]]
         title = "Pan African Studies Writing Lab Tutor and Librarian"
         company = "CSUN"
         company_url = ""
@@ -79,4 +97,20 @@ date_format = "Jan 2006"
         * Supervised employees of Lab
         """
 
+[[experience]]
+        title = "Co-Owner"
+        company = "Home Site Magazine"
+        company_url = ""
+        location = "CA"
+        date_start = "2008-01-01"
+        date_end = "2012-01-01"
+        description = """
+        Responsibilities include:
+
+        * Graphic Design
+        * Management
+        * Customer Service
+        * Sales and Advertising
+        * Printing and Mailing
+          """
 +++
