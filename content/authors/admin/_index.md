@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:battend@knights.ucf.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/batten_dm
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=GmxAtEcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dbatten
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her current research interests include literature, critical theory, videogame gamification and narrative, digital media methods, and both cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
+Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her current research interests include literature, critical theory, videogame gamification and game narrative, digital media methods, and both cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
