@@ -67,50 +67,50 @@ date_format = "Jan 2006"
       """
 
 [[experience]]
-              title = "English Teacher"
-              company = "RMA"
-              company_url = ""
-              location = "TX"
-              date_start = "2011-01-01"
-              date_end = "2013-01-01"
-              description = """
-              Responsibilities include:
+      title = "English Teacher"
+      company = "RMA"
+      company_url = ""
+      location = "TX"
+      date_start = "2011-01-01"
+      date_end = "2013-01-01"
+      description = """
+      Responsibilities include:
 
-              * Teacher of Record
-              * Creation of Lessons and Implementation
-              * Instructor for At-Risk Youth
-              * Brought failing school to 92% Academic Assessment success rate
+      * Teacher of Record
+      * Creation of Lessons and Implementation
+      * Instructor for At-Risk Youth
+      * Brought failing school to 92% Academic Assessment success rate
               """
 
 [[experience]]
-        title = "Pan African Studies Writing Lab Tutor and Librarian"
-        company = "CSUN"
-        company_url = ""
-        location = "California"
-        date_start = "2010-01-01"
-        date_end = "2013-01-01"
-        description = """
-        Responsibilities include:
+      title = "Pan African Studies Writing Lab Tutor and Librarian"
+      company = "CSUN"
+      company_url = ""
+      location = "California"
+      date_start = "2010-01-01"
+      date_end = "2013-01-01"
+      description = """
+      Responsibilities include:
 
-        * Tutored students in writing proficiency
-        * Organized and Worked as Main Librarian for Pan African Studies Library
-        * Supervised employees of Lab
+    * Tutored students in writing proficiency
+    * Organized and Worked as Main Librarian for Pan African Diaspora
+    * Supervised employees of Lab
         """
 
 [[experience]]
-        title = "Co-Owner"
-        company = "Home Site Magazine"
-        company_url = ""
-        location = "CA"
-        date_start = "2008-01-01"
-        date_end = "2012-01-01"
-        description = """
-        Responsibilities include:
+      title = "Co-Owner"
+      company = "Home Site Magazine"
+      company_url = ""
+      location = "CA"
+      date_start = "2008-01-01"
+      date_end = "2012-01-01"
+      description = """
+      Responsibilities include:
 
-        * Graphic Design
-        * Management
-        * Customer Service
-        * Sales and Advertising
-        * Printing and Mailing
+    * Graphic Design
+    * Management
+    * Customer Service
+    * Sales and Advertising
+    * Printing and Mailing
           """
 +++
