@@ -8235,7 +8235,7 @@ ul.share li:hover i {
     opacity: 1; } }
 
 .home-section {
-  background-color: white;
+  background-color: #e813c4;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s; }
