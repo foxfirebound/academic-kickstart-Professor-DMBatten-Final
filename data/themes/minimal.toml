@@ -1,5 +1,5 @@
 # Theme metadata
-name = "mytheme"
+name = "mytheme.toml"
 
 # Is theme light or dark?
 light = true
