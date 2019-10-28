@@ -8,10 +8,9 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: California State University Writing Workshop Talk for CBEST Masters Exit Exam
+header:  
   caption: ""
   image: ""
-title: "California State University Writing Workshop Talk for CBEST Masters Exit Exam
-"
-event: Workshop
-location: CA
+title: "Conference Music and Death Prague Spring 2020"
+event: Conference
+location: Czech Republic
